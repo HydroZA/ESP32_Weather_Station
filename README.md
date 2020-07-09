@@ -1,7 +1,7 @@
 # ESP32 + DHT22 + BMP280 Weather Station
 Code for the creation of a weather station using an ESP32, DHT22 and BMP280.
 
-The ESP32 captures data from the sensors then uploads it to a web server using HTTP POST, and is then pushed to a MySQL database using PHP. The data is viewable over the internet in the format of graphs created using FusionXT as well as raw data in a PHP table format.
+The ESP32 captures data from the sensors then uploads it to a web server using HTTP POST, and is then pushed to a MySQL database using PHP. The data is viewable over the internet in the format of graphs created using FusionXT as well as raw data in a PHP table format. A running example is available [here](https://yahmes.pro/weather.php)
 
 ## Parts Required
 ### Bare Minimum
